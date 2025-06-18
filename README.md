@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm Sukanya Sinha, a Full Stack Developer with over 3 years of experience in building dynamic web applications using Java, Spring Boot, React.js, Docker, and Kubernetes. I specialize in creating seamless user experiences and robust backend systems, optimizing performance, and implementing microservices architectures. I'm passionate about continuous learning and open to collaboration on innovative projects. Connect with me on LinkedIn or explore my work on GitHub.
+Hello! I'm Sukanya Sinha, a Full Stack Developer with over 3+ years of experience in building dynamic web applications using Java, Spring Boot, React.js, Docker, and Kubernetes. I specialize in creating seamless user experiences and robust backend systems, optimizing performance, and implementing microservices architectures. I'm passionate about continuous learning and open to collaboration on innovative projects. Connect with me on LinkedIn or explore my work on GitHub.
 
 
 ## 🌐 Socials:
